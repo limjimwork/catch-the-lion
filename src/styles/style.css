@@ -1,3 +1,7 @@
+body {
+  padding: 20px 0;
+}
+
 .dead-zone .card-body {
   padding: 4px;
   display: flex;
